@@ -1,28 +1,16 @@
 <h2>Hi, I'm Carlos Erick!</h2>
-<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"  width="230" height="230">
-
+<img align='right' src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="230" height="230">
 <p><em>Computer Systems Engineering at <a href="https://iesch.edu.mx">University Salazar</a>
-<br>
-Web Developer</em></p>
+<br>Web Developer</em></p>
 
+[![Linkedin: carloserick](https://img.shields.io/badge/-cetm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cetm-p-singh/)](www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
+
+### A little more about me...
 ```js
 const carloserick87 = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
                   },
 ```
-<!--
-**carloserick87/carloserick87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
