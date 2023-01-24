@@ -14,3 +14,6 @@ const carloserick87 = {
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
                   },
 ```
+
+<h2 align="center">Some stats</h2>
+
