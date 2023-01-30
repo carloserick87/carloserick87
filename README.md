@@ -3,7 +3,9 @@
 <p><em>Computer Systems Engineering at <a href="https://iesch.edu.mx">University Salazar</a>
 <br>Web Developer</em></p>
 
-[![Linkedin: carloserick](https://img.shields.io/badge/-cetm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cetm-p-singh/)](www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
+[![Linkedin](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
+
+
 
 ### A little more about me...
 ```js
@@ -27,7 +29,7 @@ const carloserick87 = {
 ```
 
 <h2 align="center">Some stats</h2>
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+[![Stats](https://github-readme-stats.vercel.app/api?username=blue-1ms)](https://github.com/blue-1ms)
 
 
 
