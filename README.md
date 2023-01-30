@@ -3,7 +3,7 @@
 <p><em>Computer Systems Engineering at <a href="https://iesch.edu.mx">University Salazar</a>
 <br>Web Developer</em></p>
 
-[![Linkedin](https://img.shields.io/badge/-Carlos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
+[![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
 
 
 
