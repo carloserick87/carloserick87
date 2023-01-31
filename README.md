@@ -29,10 +29,15 @@ const carloserick87 = {
 
 <h2 align="center">Some stats</h2>
 
-
+ 
+   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloserick87&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+   
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&layout=compact&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 Last Edited on: 30/01/2023
 
