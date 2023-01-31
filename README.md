@@ -32,8 +32,8 @@ const carloserick87 = {
 <div align="center">
 
 <a href="https://github.com/carloserick87/">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&show_icons=true&theme=transparent" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&layout=compact&show_icons=true&theme=transparent" width="375"  alt="carloserick87"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&show_icons=true&theme=github_dark" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&layout=compact&show_icons=true&theme=github_dark" width="375"  alt="carloserick87"/>
 
 </a>
 </div>
