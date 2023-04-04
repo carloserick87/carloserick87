@@ -10,7 +10,7 @@
 ```js
 const carloserick87 = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [Javascript, Typescript, HTML5, CSS3, Python, Java],
   technologies: {
       frontEnd: {
          js: ["React", "Angular"],
