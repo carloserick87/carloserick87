@@ -1,5 +1,5 @@
-<h2>Hi, I'm Carlos Erick!</h2>
-<img align='right' src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="230" height="230">
+# Hi, I'm Carlos Erick!
+<img align='right' src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif"    width="230" height="230">
 <p><em>Computer Systems Engineering at <a href="https://iesch.edu.mx">University Salazar</a>
 <br>Web Developer</em></p>
 
