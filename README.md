@@ -10,11 +10,11 @@
 ```js
 const Carlos_Erick = {
    pronouns: 'He' | 'Him',
-   code: ['HTML','CSS','JavaScript','Rost','Python','Java'],
-   technologies: {
-      frontEnd: {
+     code: ['HTML','CSS','JavaScript','Rost','Python','Java'],
+       technologies: {
+         frontEnd: {
          js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+           css: ["Sass", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
          java: ["Spring"],
