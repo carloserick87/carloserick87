@@ -14,6 +14,7 @@ const Carlos_Erick = {
        technologies: {
          frontEnd: {
          js: ["React", "Angular"],
+
            css: ["Sass", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
