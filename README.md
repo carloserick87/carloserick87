@@ -5,6 +5,8 @@
 <p><em>Computer Systems Engineering and Web Developer</em></p>
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.carloserick87@gmail.com)
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,7 +35,7 @@
 </div>
 
 <br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">A little more about me...
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> A little more about me...
 
 
 <h2 align="center">Some stats</h2>
