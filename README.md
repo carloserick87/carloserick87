@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -32,6 +32,9 @@
   <img src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FFFFFF" height="30" alt="rust logo"  />
    <img width="12">
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" alt="webpack logo"  />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="webpack logo"  />
+          
 </div>
 
 <br><br>
