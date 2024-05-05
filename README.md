@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" height="30" alt="rust logo"  />
+  <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" alt="rust logo"  />
    <img width="12">
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" alt="webpack logo"  />
   <img width="12">
