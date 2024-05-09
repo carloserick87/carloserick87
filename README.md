@@ -6,7 +6,9 @@
 <p><em>Computer Systems Engineering and Web Developer</em></p>
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.carloserick87@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
+
+
 
 
 <div align="left">
