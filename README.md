@@ -7,7 +7,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=blue&color=black)](https://www.carloserickdev.com/)
+[![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
 
 
