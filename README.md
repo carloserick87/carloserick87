@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" height="30" alt="TypeScript logo"  />
   <img width="12" />
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" alt="nodejs logo"  />
   <img width="12" />
