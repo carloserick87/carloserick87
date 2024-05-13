@@ -2,7 +2,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"    width="180" height="180">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
 <p><em>Computer Systems Engineering and Web Developer</em></p>
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-erick-trujillo-mandujano-532003257)
@@ -42,6 +42,9 @@
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" alt="webpack logo"  />
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="webpack logo"  />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30" alt="Vim logo" />
+          
           
 </div>
 
