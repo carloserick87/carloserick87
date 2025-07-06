@@ -31,7 +31,7 @@
      <img width="12">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"  height="19" width="19"  alt="figma_logo" />
      <img width="21">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png"  height="30" width="30"  alt="wordpress_logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png"  height="29" width="29"  alt="wordpress_logo" />
 </div>
  
           
