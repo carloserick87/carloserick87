@@ -41,7 +41,7 @@ I'm Carlos Erick, a passionate Computer Systems Engineer and Web Developer with 
   <div align="center">
 
   <a href="https://github.com/carloserick87/">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&theme=dark&show_icons=true&hide_border=true&count_private=true" width="375"  alt="carloserick87"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&theme=dark&show_icons=true&hide_border=true&count_private=true"  width="375"  alt="carloserick87"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&theme=dark&show_icons=true&hide_border=true&layout=compact" width="375"  alt="carloserick87"/>
 
   <br><br>
