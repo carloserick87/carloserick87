@@ -29,31 +29,21 @@
      <img width="12" />
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" width="30" alt="webpack_logo"  />
      <img width="12">
-
-
-
-
-
-
-
-
-
-
 </div>
           
 
 
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> A little more about me...
-
+I'm Carlos Erick, a passionate Computer Systems Engineer and Web Developer with a Master's in Front-End Development. I'm currently living in Dublin and pursuing further specialization in Web Interfaces and Software Design.
 
 <h2 align="center">Some stats</h2>
   <div align="center">
 
   <a href="https://github.com/carloserick87/">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&show_icons=true&theme=github_dark" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&layout=compact&show_icons=true&theme=github_dark" width="375"  alt="carloserick87"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&theme=dark&show_icons=true&hide_border=true&count_private=true" width="375"  alt="carloserick87"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&theme=dark&show_icons=true&hide_border=true&layout=compact" width="375"  alt="carloserick87"/>
 
   <br><br>
-   Last Edited on 26/04/2024
+   Last Edited on 04/06/2025
 
