@@ -9,46 +9,31 @@
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
-
-
-
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor" height="30" alt="TypeScript logo"  />
-  <img width="12" />
-  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />    
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12">
-  <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" alt="rust logo"  />
-   <img width="12">
-  <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" alt="webpack logo"  />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="webpack logo"  />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="30" alt="Vim logo" />
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30%" width="30" alt="html5_logo">
+     <img width="12" />
+  <img src="https://coywolf.com/wp-content/uploads/2024/11/purple-css-logo.webp" height="30" width="30" alt="css_logo"  />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript_logo"  />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap_logo"  />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python_logo"  />
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react_logo"  />
+     <img width="12" />
+  <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" width="30" alt="rust_logo"  />
+     <img width="12">
+
+
+
+
+
+
+
 </div>
+          
+
 
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> A little more about me...
