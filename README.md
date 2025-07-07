@@ -28,9 +28,9 @@
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="30" alt="nodejs_logo"  />
      <img width="12" />
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" width="30" alt="webpack_logo"  />
-     <img width="12">
+     <img width="18">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png"  height="18" width="18"  alt="figma_logo" />
-     <img width="24">
+     <img width="18">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png"  height="29" width="29"  alt="wordpress_logo" />
 </div>
  
