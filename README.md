@@ -34,7 +34,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" height="28" width="28" alt="wordpress_logo" />
      <img width="13">
   <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" height="30" width="30" alt="bash_logo"  />
-          
+    <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" height="30" width="30" alt="bash_logo"  />
 </div>
  
           
