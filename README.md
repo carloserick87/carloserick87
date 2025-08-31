@@ -16,15 +16,21 @@
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript_logo"  />
      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="30" alt="javascript_logo"  />
+     <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap_logo"  />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python_logo"  />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react_logo"  />
      <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" width="30" alt="angular_logo" />
+    <img width="12" />
+    <br>
   <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" width="30" alt="rust_logo"  />
      <img width="12">
-     <br>
+     
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="30" alt="nodejs_logo"  />
      <img width="12" />
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" width="30" alt="webpack_logo"  />
