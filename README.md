@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
 <p><em>Computer Systems Engineering and Web Developer</em></p>
-<br>
+<br/>
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carloserickdev)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
@@ -18,9 +18,8 @@
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript_logo"  />
      <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="30" alt="javascript_logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript_logo"  />
      <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap_logo"  />
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python_logo"  />
@@ -29,10 +28,9 @@
      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" width="30" alt="angular_logo" />
     <img width="12" />
-    <br>
+    <br/>
   <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" width="30" alt="rust_logo"  />
      <img width="12">
-     
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="30" alt="nodejs_logo"  />
      <img width="12" />
   <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" width="30" alt="webpack_logo"  />
