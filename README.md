@@ -52,7 +52,15 @@
 
 <br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> A little more about me...
-I'm Carlos Erick, a passionate Computer Systems Engineer and Web Developer with a Master's in Front-End Development. I'm currently living in Dublin and pursuing further specialization in Web Interfaces and Software Design.
+
+🎓 Master’s student in Front-End Development and Interface Design.<br>
+🌍 Based in Dublin, Ireland, studying English for professional growth. <br>
+
+I’m passionate about building modern, functional, and user-friendly web applications.  
+Currently pursuing a Master’s in **Front-End Development & UI Design**, while living in Dublin and improving my English to grow as an international developer.  
+
+
+
 
 <h2 align="center">Some stats</h2>
   <div align="center">
