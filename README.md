@@ -12,7 +12,7 @@
 ### Glad to see you here! 
 I am a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
 I have a passion for crafting intuitive, responsive, and visually engaging user interfaces. My approach blends problem-solving, creativity, and first-principle thinking to build 
-clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Vue, React, TailwindCSS, and modern Front-End practices that bring ideas
+clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Angular, React, Vue, and modern Front-End practices that bring ideas
 to life on the web.
 
 I’m constantly exploring new tools and frameworks that elevate performance, accessibility, and design. As an avid learner and curious builder, I enjoy experimenting with UI/UX patterns, improving user flows, and staying up-to-date with the latest in Front-End development.
@@ -28,9 +28,13 @@ I’m constantly exploring new tools and frameworks that elevate performance, ac
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
 
 ### Talking about Personal Stuff:
-🛠 I’m currently working with HTML, CSS, JavaScript, Vue.js, React,Angular, and modern Front-End tools.
+🛠 I’m currently working with HTML, CSS, JavaScript, Vue.js, React,Angular,
 
-🚀 I’m currently exploring UI/UX design, accessibility, responsive development, and performance optimization.
+and modern Front-End tools.
+
+🚀 I’m currently exploring UI/UX design, accessibility, responsive development,
+
+and performance optimization.
 
 👾 Fun fact: In CSS, “center” is easy to say but not always easy to do.
 
@@ -72,22 +76,7 @@ I’m constantly exploring new tools and frameworks that elevate performance, ac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" width="30"  alt="figma_logo" />
     
 </div>
- 
-          
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-
-
-
-
-  <br><br>
-   Last Edited on 04/06/2025
+ <br><br>
+   Last Edited on 02/12/2025
 
