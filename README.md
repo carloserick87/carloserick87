@@ -41,6 +41,7 @@ and performance optimization.
 <br>
 
 ### Languages and Tools:
+<div style="display: flex; ">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30%" width="30" alt="html5_logo">
      <img width="12" />
@@ -73,9 +74,27 @@ and performance optimization.
     <img width="12" />
   <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" height="30" width="30" alt="threejs_logo"  />
    <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" width="30"  alt="figma_logo" />
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" width="30"  alt="vue_logo" />
+  </div>
+  
+
     
 </div>
+
+  
+</div>
+
+<img src="https://readmestats.999857.xyz/api/top-langs/?username=carloserick87&layout=compact&theme=transparent" />
+
+
+
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloserick87&theme=default)
+
+
+
+
 
  <br><br>
    Last Edited on 02/12/2025
