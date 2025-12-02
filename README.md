@@ -1,16 +1,42 @@
-# Hi, I'm Carlos Erick!
+## Hey there 👋, I'm [Carlos Erick!](https://github.com/carloserick87/)
 
-
-
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
 <p><em>Computer Systems Engineering and Web Developer</em></p>
-<br/>
+
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carloserickdev)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
+<br>
 
+### Glad to see you here! 
+I am a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
+I have a passion for crafting intuitive, responsive, and visually engaging user interfaces. My approach blends problem-solving, creativity, and first-principle thinking to build 
+clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Vue, React, TailwindCSS, and modern Front-End practices that bring ideas
+to life on the web.
+
+I’m constantly exploring new tools and frameworks that elevate performance, accessibility, and design. As an avid learner and curious builder, I enjoy experimenting with UI/UX patterns, improving user flows, and staying up-to-date with the latest in Front-End development.
+
+
+<hr>
+  <h3 align="left">Random Dev Quote:</h3>
+    <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
+
+### Talking about Personal Stuff:
+🛠 I’m currently working with HTML, CSS, JavaScript, Vue.js, React,Angular, and modern Front-End tools.
+
+🚀 I’m currently exploring UI/UX design, accessibility, responsive development, and performance optimization.
+
+👾 Fun fact: In CSS, “center” is easy to say but not always easy to do.
+
+<br>
+
+### Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30%" width="30" alt="html5_logo">
      <img width="12" />
@@ -49,25 +75,18 @@
  
           
 
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-<br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> A little more about me...
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-🎓 Master’s student in Front-End Development and Interface Design.<br>
-🌍 Based in Dublin, Ireland, studying English for professional growth. <br>
-
-I’m passionate about building modern, functional, and user-friendly web applications.  
-Currently pursuing a Master’s in **Front-End Development & UI Design**, while living in Dublin and improving my English to grow as an international developer.  
-
-
+<details>
 
 
-<h2 align="center">Some stats</h2>
-  <div align="center">
 
-  <a href="https://github.com/carloserick87/">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloserick87&theme=dark&show_icons=true&hide_border=true&count_private=true"  width="375"   alt="carloserick87"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloserick87&theme=dark&show_icons=true&hide_border=true&layout=compact" width="375"   alt="carloserick87"/>
 
   <br><br>
    Last Edited on 04/06/2025
