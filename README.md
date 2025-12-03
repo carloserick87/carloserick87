@@ -40,10 +40,14 @@ and performance optimization.
 
 <br>
 
-### Languages and Tools:
+
+<div align="center">
+  
+  ### Languages and Tools:
+  
 <table>
-  <tr>
-    <td>
+  <tr width="100%">
+    <td width="50%" valign="top">
       <!-- ICONOS -->
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30">
@@ -65,12 +69,13 @@ and performance optimization.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30">
       </div>
     </td>
-    <td>
+    <td width="90%">
       <!-- TARJETA -->
       <img src="https://readmestats.999857.xyz/api/top-langs/?username=carloserick87&layout=compact&theme=transparent">
     </td>
   </tr>
 </table>
+</div>
 
 
 
