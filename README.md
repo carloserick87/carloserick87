@@ -41,56 +41,45 @@ and performance optimization.
 <br>
 
 ### Languages and Tools:
-<div style="display: flex; ">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30%" width="30" alt="html5_logo">
-     <img width="12" />
-  <img src="https://coywolf.com/wp-content/uploads/2024/11/purple-css-logo.webp" height="30" width="30" alt="css_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" width="30" alt="bootstrap_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react_logo"  />
-     <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" width="30" alt="angular_logo" />
-    <img width="12" />
-    <br/>
-  <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" height="30" width="30" alt="rust_logo"  />
-     <img width="12">
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" width="30" alt="nodejs_logo"  />
-     <img width="12" />
-  <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" height="30" width="30" alt="webpack_logo"  />
-     <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  height="30" width="30"  alt="tailwind_logo" />
-     <img width="12">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" height="28" width="28" alt="wordpress_logo" />
-     <img width="13">
-  <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" height="30" width="30" alt="bash_logo"  />
-    <img width="12" />
-  <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" height="30" width="30" alt="threejs_logo"  />
-   <img width="12">
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="30" width="30"  alt="vue_logo" />
-  </div>
-  
-
-    
-</div>
-
-  
-</div>
-
-<img src="https://readmestats.999857.xyz/api/top-langs/?username=carloserick87&layout=compact&theme=transparent" />
+<table>
+  <tr>
+    <td>
+      <!-- ICONOS -->
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30">
+        <img src="https://coywolf.com/wp-content/uploads/2024/11/purple-css-logo.webp" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30">
+        <br/>
+        <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" width="30">
+        <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="30">
+        <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" width="28">
+        <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" width="30">
+        <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="30">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30">
+      </div>
+    </td>
+    <td>
+      <!-- TARJETA -->
+      <img src="https://readmestats.999857.xyz/api/top-langs/?username=carloserick87&layout=compact&theme=transparent">
+    </td>
+  </tr>
+</table>
 
 
 
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carloserick87&theme=default)
+
+
+
+
+
 
 
 
