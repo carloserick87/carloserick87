@@ -1,9 +1,4 @@
-## Hi, My name is Carlos Erick 👋
-
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
-
-<em>Front-End & Mobile Developer</em>
-
+![front_page](./frontPage.png)
 
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carlos-trujillo-front-end-mobile)
@@ -34,7 +29,6 @@ I’m constantly exploring new tools and frameworks that elevate performance, ac
 </p>
 <hr>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWx5NnU0MTYzZnMwcmtzYmtmaDdhOTNob2RlNXY1a3VvdnBuaHJ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  width="180" height="180">
 
 ### Talking about Personal Stuff:
 🛠 I’m currently working with HTML, CSS, JavaScript, Vue.js, React,Angular,
@@ -50,42 +44,38 @@ and performance optimization.
 <br>
 
 
-<div align="center">
+
   
-  ### Languages and Tools:
-  
-<table>
-  <tr width="100%">
-    <td width="50%" valign="top">
-      <!-- ICONOS -->
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30">
-        <img src="https://coywolf.com/wp-content/uploads/2024/11/purple-css-logo.webp" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30">
-        <br/>
-        <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" width="30">
-        <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="30">
-        <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30">
-        <img src="https://github.com/user-attachments/assets/2d38edf3-3805-432d-9a07-3d812c3dec31" width="28">
-        <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" width="30">
-        <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="30">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30"> 
-        <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="30">
-      </div>
-    </td>
-    <td width="90%">
-      <!-- TARJETA -->
-      <img src="https://readmestats.999857.xyz/api/top-langs/?username=carloserick87&layout=compact&theme=transparent">
-    </td>
-  </tr>
-</table>
-</div>
+ ## Languages and Tools:
+   <div align="left">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://coywolf.com/wp-content/uploads/2024/11/purple-css-logo.webp" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="38">
+       <br/><br/>
+     <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" width="38">&nbsp; &nbsp;
+     <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="38">&nbsp; &nbsp;
+     <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" width="38">&nbsp; &nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38">&nbsp; &nbsp;
+     <img src="https://github.com/user-attachments/assets/2d38edf3-3805-432d-9a07-3d812c3dec31" width="38">&nbsp; &nbsp;
+     <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" width="38">&nbsp; &nbsp;
+     <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="38">&nbsp;             &nbsp;
+     <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="38">
+   </div>
+   
+  <br/>
+    
+   ## STATS
+    
+   <div align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloserick87&theme=github_dark" width="750">
+     </div>
+ 
 
 
 
