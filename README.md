@@ -39,7 +39,6 @@ and modern Front-End tools.
 
 and performance optimization.
 
-👾 Fun fact: In CSS, “center” is easy to say but not always easy to do.
 
 <br>
 
