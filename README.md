@@ -56,7 +56,7 @@ and performance optimization.
      <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" width="38">&nbsp; &nbsp;
      <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width="38">&nbsp;             &nbsp;
      <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="38">&nbsp; &nbsp;
-     <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" width="38>
+     <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" width="38">
    </div>
    
   <br/><br/>
