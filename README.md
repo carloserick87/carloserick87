@@ -65,7 +65,7 @@ and performance optimization.
     
    <div align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloserick87&theme=github_dark" width="750">
-     </div>
+   </div>
  
 
 
