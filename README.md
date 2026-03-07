@@ -1,19 +1,18 @@
 ![front_page](./frontPage.png)
 
-
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carlos-trujillo-front-end-mobile)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
 <br>
 
-### Glad to see you here! 
-I am a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
-I have a passion for crafting intuitive, responsive, and visually engaging user interfaces. My approach blends problem-solving, creativity, and first-principle thinking to build 
-clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Angular, React, Vue, and modern Front-End practices that bring ideas
-to life on the web.
+  ### Glad to see you here! 
+  I am a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
+  I have a passion for crafting intuitive, responsive, and visually engaging user interfaces. My approach blends problem-solving, creativity, and first-    principle thinking to build 
+  clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Angular, React, Vue, and modern Front-End  practices that bring ideas
+  to life on the web.
 
-I’m constantly exploring new tools and frameworks that elevate performance, accessibility, and design. As an avid learner and curious builder, I enjoy experimenting with UI/UX patterns, improving user flows, and staying up-to-date with the latest in Front-End development.
+ I’m constantly exploring new tools and frameworks that elevate performance, accessibility, and design. As an avid learner and curious builder, I enjoy experimenting with UI/UX patterns, improving user flows, and staying up-to-date with the latest in Front-End development.
 
 
 <hr>
@@ -59,7 +58,7 @@ and performance optimization.
      <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" width="38">
    </div>
    
-  <br/><br/>
+  <br/>
   
    ## STATS
     
@@ -67,20 +66,5 @@ and performance optimization.
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carloserick87&theme=github_dark" width="750">
    </div>
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  <br><br>
    Last Edited on 02/12/2025
-
