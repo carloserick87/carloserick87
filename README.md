@@ -1,4 +1,4 @@
-![front_page](./frontPage.png)
+![front_page](./GitHub_Header.png)
 
 [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carlos-trujillo-front-end-mobile)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
@@ -6,13 +6,15 @@
 
 <br>
 
-  ### Glad to see you here! 
-  I am a Front-End Developer passionate about crafting clean, responsive, and user-friendly web interfaces.
-  I have a passion for crafting intuitive, responsive, and visually engaging user interfaces. My approach blends problem-solving, creativity, and first-    principle thinking to build 
-  clean, scalable, and user-focused digital experiences. I have a strong foundation in JavaScript, HTML, CSS, Angular, React, Vue, and modern Front-End  practices that bring ideas
-  to life on the web.
+  ## About Me
+   
+  I am a Front-End Developer focused on crafting clean, responsive, and user-friendly web interfaces. My approach blends problem-solving, creativity, and first-principles thinking to build scalable and user-focused digital experiences.
 
- I’m constantly exploring new tools and frameworks that elevate performance, accessibility, and design. As an avid learner and curious builder, I enjoy experimenting with UI/UX patterns, improving user flows, and staying up-to-date with the latest in Front-End development.
+I have a strong foundation in JavaScript, HTML, CSS, and modern front-end frameworks such as React, Angular, and Vue.
+
+I hold a background in Computer Systems Engineering and a Master's degree in User Interface Development (Front-End).
+
+I’m constantly exploring new tools and technologies that improve performance, accessibility, and design quality.
 
 
 <hr>
