@@ -5,12 +5,6 @@
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
-
-
-
-
-
-
 <br>
 
 ### Glad to see you here! 
@@ -42,9 +36,6 @@ and performance optimization.
 
 <br>
 
-
-
-  
  ## Languages and Tools:
    <div align="left">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38">&nbsp; &nbsp;
@@ -68,10 +59,8 @@ and performance optimization.
      <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" width="38>
    </div>
    
-  <br/>
-  <br/>
+  <br/><br/>
   
-    
    ## STATS
     
    <div align="center">
