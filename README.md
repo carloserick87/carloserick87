@@ -73,7 +73,8 @@ and performance optimization.
    </div>
  
  <br><br>
- 
-   <div algin="center">
-     Last Edited on 09/03/2026
+
+  <div align="center">
+      Last updated: March 9, 2026
    </div>
+   
