@@ -61,7 +61,8 @@ and performance optimization.
      <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="Three.js logo" width="38">&nbsp; &nbsp;
      <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter logo" width="38">&nbsp; &nbsp;
      <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" alt="Postman logo" width="38">&nbsp; &nbsp;
-     <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma logo" width="38">
+     <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma logo" width="38">&nbsp; &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="38" >
    </div>
    
   <br/>
