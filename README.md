@@ -62,7 +62,7 @@ and performance optimization.
      <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter logo" width="38">&nbsp; &nbsp;
      <img src="https://topaisjobs.com/wp-content/uploads/2025/02/2945092.webp" alt="Postman logo" width="38">&nbsp; &nbsp;
      <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma logo" width="38">&nbsp; &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="38" >
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker logo" width="38" >
    </div>
    
   <br/>
