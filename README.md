@@ -2,7 +2,7 @@
 ![front_page](./GitHub_Header.png)
 
 <!-- Links -->
-   [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/carlos-trujillo-front-end-mobile)
+   [![Linkedin](https://img.shields.io/badge/-Carlos_Erick-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/carlos-erick-trujillo)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-red?style=flat&logo=Gmail&logoColor=rgb(255%2C255%2C255)&color=red)](mailto:ing.carloserick87@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Carlos_Erick-black?style=flat&logoColor=rgb(255%2C255%2C255)&label=Web&labelColor=rgb(84%2C81%2C81)&color=black)](https://www.carloserickdev.com/)
 
