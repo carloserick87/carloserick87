@@ -51,7 +51,8 @@ and performance optimization.
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" width="38">&nbsp; &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular logo" width="38">&nbsp; &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js logo" width="38">&nbsp; &nbsp;
-     <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" alt="Rust logo" width="38">&nbsp; &nbsp;
+     <img src="https://github.com/lecepin/rust-logo/raw/main/images/1659961579952.png" alt="Rust logo" width="38">&nbsp; &nbsp; &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Rust logo" width="38">&nbsp;
      <br/><br/>
      <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" alt="Node.js logo" width="38">&nbsp; &nbsp;
      <img src="https://icongr.am/devicon/webpack-original.svg?size=128&color=currentColor" alt="Webpack logo" width="38">&nbsp; &nbsp;
