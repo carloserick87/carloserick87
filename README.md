@@ -12,7 +12,7 @@
    
 I am a Front-End Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy transforming ideas into functional digital experiences through problem-solving, creativity, and modern development practices.
 
-I have experience working with JavaScript, HTML, CSS, and front-end frameworks such as React, Angular, and Vue. I also work with REST APIs, integrating dynamic data into applications using tools like Fetch API and Axios to create interactive and scalable user experiences.
+I have experience working with HTML, CSS, JavaScript, TypeScript and front-end frameworks such as React, Angular, and Vue. I also work with REST APIs, integrating dynamic data into applications using tools like Fetch API and Axios to create interactive and scalable user experiences.
 
 My background in Computer Systems Engineering and my Master's degree in User Interface Development (Front-End) have strengthened my skills in responsive design, UI development, accessibility, and performance optimization.
 
